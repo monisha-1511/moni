@@ -28,7 +28,9 @@ public class base1 {
 		
 	}
 	
-
+public void method() {
+	System.out.println("method creation");
+}
 		
 	
 
