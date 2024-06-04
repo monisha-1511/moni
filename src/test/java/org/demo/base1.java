@@ -32,6 +32,11 @@ public void method() {
 	System.out.println("method creation");
 }
 		
-	
+	public void method1() {
+		System.out.println("method");
+	}
+	public void method2() {
+	}
+	}
 
 }
